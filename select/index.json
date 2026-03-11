@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヘッジホッグ",
+  "base_artist": "Noz.",
+  "createdAt": "2026-03-11T22:22:12.654592Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヘッジホッグ",
+      "artist": "Noz.【鏡音リン】",
+      "has_synced": false,
+      "path": "select/pl_01_ヘッジホッグ_Noz.【鏡音リン】.txt"
+    }
+  ]
+}
